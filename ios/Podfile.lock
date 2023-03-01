@@ -1,10 +1,10 @@
 PODS:
-  - AccuraOCR (3.1.5):
+  - AccuraOCRSDK (3.0.0):
     - GoogleMLKit
     - SVProgressHUD
   - Flutter (1.0.0)
   - flutter_accurascan_ocr (0.0.1):
-    - AccuraOCR (= 3.1.5)
+    - AccuraOCRSDK (= 3.0.0)
     - Flutter
   - GoogleDataTransport (9.2.1):
     - GoogleUtilities/Environment (~> 7.7)
@@ -62,7 +62,7 @@ DEPENDENCIES:
 
 SPEC REPOS:
   trunk:
-    - AccuraOCR
+    - AccuraOCRSDK
     - GoogleDataTransport
     - GoogleMLKit
     - GoogleToolboxForMac
@@ -82,9 +82,9 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/flutter_accurascan_ocr/ios"
 
 SPEC CHECKSUMS:
-  AccuraOCR: 6fbea6326619b73100b1b970dd9103609c2f805b
+  AccuraOCRSDK: 35d7b0be43a0055e033291ce378495339b07247e
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
-  flutter_accurascan_ocr: 9833de8efdfc97923cb61b79e1eb41fed8f8492f
+  flutter_accurascan_ocr: 0491e2c595d8fc178be3d68259451c3eb21d06b7
   GoogleDataTransport: ea169759df570f4e37bdee1623ec32a7e64e67c4
   GoogleMLKit: 0017a6a8372e1a182139b9def4d89be5d87ca5a7
   GoogleToolboxForMac: 8bef7c7c5cf7291c687cf5354f39f9db6399ad34
